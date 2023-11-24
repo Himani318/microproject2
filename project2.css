@@ -1,0 +1,173 @@
+#nav1{
+    display: flex;
+    background-color: blue;
+    align-items: center;
+    justify-content: space-evenly;
+    }
+.link{
+    color: #ffffff;
+    text-decoration: none;
+}
+.menu{
+    display: flex;
+    gap: 30px;
+    }
+ .more{
+    color: white;
+    background-color: transparent;
+    border: none;
+    outline: none;
+ }   
+ .input{
+    outline: none;
+    width: 180px;
+    height: 18px;
+    border-radius: 10px;
+    border: none;
+ }
+ .fa-magnifying-glass{
+    position: absolute;
+    left: 84%;
+    height: 15px;
+    color: gray;
+    top: 27px; 
+ }
+ .fa-bars{
+    color: white;
+ }
+ .coding{
+    height:300px;
+    width: 300px;
+    border-radius: 10px;
+     }
+.main{
+    margin-top: 30px;
+    display: flex;
+    gap: 30px;
+    justify-content: space-evenly;
+    }
+.phara{
+    background-color: gray;
+    width: 450px;
+    height: 280px;
+    border-radius: 10px;
+    padding: 10px;
+   }
+   .social-media{
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+    justify-content: center;
+   }
+   .box{
+    display: flex;
+    gap: 30px;
+    justify-content: space-evenly;
+   }
+   .box1{
+    margin-top: 50px;
+    background-color: #929DFF;
+    border-radius: 10px;
+    padding :10px;
+    width:150px;
+    height:50px;   
+   }
+   .box2{
+    margin-top: 50px;
+    background-color: #734CF2;
+    border-radius: 10px;
+    width:150px;
+    height:50px;
+    padding: 10px;      
+   }
+   .box3{
+    height:50px;
+    width:150px;
+    background-color: #D288FF;
+    border-radius: 10px;
+    margin-top: 50px;
+    padding: 10px;
+   }
+   .box4{
+    margin-top: 50px;
+    height:50px;
+    width: 150px;
+    background-color: #000000;
+    border-radius: 10px;
+    padding: 10px;
+    color: white;
+   }
+   .card{
+      background-color: blue;
+      margin-top: 20px;
+      width:700px;
+      height:360px;
+      display: flex;
+      margin-left: 120px;
+      border-radius: 10px;
+
+      
+   }
+   .button{
+      display: flex;
+      flex-direction: column;
+      /* align-items: center; */
+      /* justify-content: space-around; */
+      gap:60px;
+      margin-top: 30px;
+      margin-left: 30px;
+
+   }
+   .bitin{
+      width:120px;
+      height: 40px;
+      padding:7px;
+      background-color: transparent;
+      color: white;
+      border-radius: 10px;
+      border: 2px solid white;
+      margin-top: 20px;
+   }
+   .textarea{
+      height: 84%;
+      width: 70%;
+      background-color: white;
+      margin-top: 30px;
+      margin-left: 30px;
+      text-align: center;
+      border-radius: 10px;
+
+   }
+   .bio{
+      font-size: large;
+      font-weight: bold ;
+
+   }
+   .next{
+      background-color: black;
+      color: white;
+      border: none;
+      width: 100px;
+      height: 30px;
+      border-radius: 3px;
+      position: relative;
+      top:70px;
+      left:180px;
+   }
+   
+      
+        
+   
+      
+
+
+
+
+
+
+
+
+
+
+
+    
